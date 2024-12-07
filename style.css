@@ -1,0 +1,6 @@
+.nav-pill .nav-link{
+    color: #3f729b;
+}
+.nav-pill .nav-link.active{
+    color: #3f729b;
+}
